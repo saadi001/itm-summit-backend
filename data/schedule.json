@@ -1,0 +1,136 @@
+[
+     {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "images":[],
+          "Method": [""],
+          "time": "07:30-08:30 am",
+          "Duration": "60 minutes",
+          "content": [{"option":"All Participants arrival time"}]
+     },
+     {
+          "id": 2,
+          "name": "Nusrat Jahan",
+          "designation": "Assistant professor Head, Dept of ITM",
+          "images":[],
+          "Method": ["Opening and Inauguration by Honorable Vice Chancellor Sir"],
+          "time": "08:30-10:30 am",
+          "Duration": "120 minutes",
+          "content": [
+               {"title":"Program flow"},
+               {"opton":["Welcome remarks","Brief self-introduction of participants (name, organization)","Highlights on ICBC project","Remarks by the representative of Technical Partners","Speech by the Chairperson, PD, ICBC Project","Speech by the Chief Guest,Secretary, MoWCA"]}
+          ]
+     },
+     {
+          "id": 3,
+          "name": "",
+          "designation": "",
+          "images":[],
+          "Method": [""],
+          "time": "10:30-11:00 am",
+          "Duration": "30 minutes",
+          "content": [
+               {"option":"Tea break"}
+          ]
+     },
+     {
+          "id": 4,
+          "name": "Dr. Al-Amin, CIPRB and Nahid Parvin",
+          "designation": "BRAC IED",
+          "images":[],
+          "Method": ["Pair up the participants (APMs DCAOs and TAPs and other participants)."],
+          "time": "11:00-11:30 am",
+          "Duration": "30 minutes",
+          "content": [
+               {"option":"Interactive Introduction"}
+          ]
+     },
+     {
+          "id": 5,
+          "name": "Md. Tariqul Islam Chowdhudry and M Rizwan Khan",
+          "designation": "Synergos",
+          "images":[],
+          "Method": ["Participants write expectations in VIP cards. PPT."],
+          "time": "11:30-12:00 pm",
+          "Duration": "30 minutes",
+          "content": [
+               {"option":"Expectations collection from participants and ground rules sharing"}
+          ]
+     },
+     {
+          "id": 6,
+          "name": "Md. Tariqul Islam Chowdhudry",
+          "designation": "",
+          "images":[],
+          "Method": ["PPT Presentation, discussion, and Q/A.", "Copies of the DPP will be distributed."],
+          "time": "12:00-12:40 pm",
+          "Duration": "40 minutes",
+          "content": [
+               { "title":"Introduction of ICBC project and Development/Technical Partners and their roles."},
+               {"option": ["Objectives", "Intervention models", "Locations of ICBC project","Roles of DPs and TAPs"]}
+          ]
+     },
+     {
+          "id": 7,
+          "name": "M Rizwan Khan and Team",
+          "designation": "",
+          "images":[],
+          "Method": ["Participants may be quizzed on project related information."],
+          "time": "12:40-01:00 pm",
+          "Duration": "20 minutes",
+          "content": [
+               {"option": ["Energizers"]}
+          ]
+     },
+     {
+          "id": 8,
+          "name": "",
+          "designation": "",
+          "images":[],
+          "Method": [""],
+          "time": "01.00-02:00 pm",
+          "Duration": "60 minutes ",
+          "content": [
+               {"option": ["Lunch break"]}
+          ]
+     },
+     {
+          "id": 9,
+          "name": "Nahid Parvin and Rabbya Ashrafi ",
+          "designation": "",
+          "images":[],
+          "Method": ["Some team building activities will be performed"],
+          "time": "02:00-02:10 pm",
+          "Duration": "10 minutes ",
+          "content": [
+               {"option": ["Energizers"]}
+          ]
+     },
+     {
+          "id": 10,
+          "name": "Dr. Aminur Rahman, CIPRB and Esha Husain",
+          "designation": "Synergos",
+          "images":[],
+          "Method": ["PPT presentation, video and Q/A"],
+          "time": "02:10-03:10 pm",
+          "Duration": "60 minutes",
+          "content": [
+               { "title":"Background Research and Project journey"},
+               {"option": ["Background research (where it started)-Presenting research findings on child drowning prevention-proof of concept.", "How have we come here? Reflection on the collective journey of ICBC DPP journey."]}
+          ]
+     },
+     {
+          "id": 11,
+          "name": "Dr. Golam Mostafa",
+          "designation": " BRAC IED",
+          "images":[],
+          "Method": ["PPT presentation, video and Q/A"],
+          "time": "03:10-03:55 pm",
+          "Duration": "45 minutes",
+          "content": [
+               { "title":"Science of ECCD and its’ Benefit"},
+               {"option": ["The science of ECCD and its longterm benefits and aspects of ECCD featured in Nurturing CareFramework."]}
+          ]
+     }
+]
