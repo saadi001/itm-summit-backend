@@ -1,136 +1,124 @@
 [
      {
           "id": 1,
-          "name": "",
-          "designation": "",
+          "name": "All Participants arrival time",
+          "designation": "",          
           "images":[],
           "Method": [""],
-          "time": "07:30-08:30 am",
+          "time": "07:30 am-08:30 am",
           "Duration": "60 minutes",
-          "content": [{"option":"All Participants arrival time"}]
+          "content": []
      },
      {
           "id": 2,
           "name": "Nusrat Jahan",
-          "designation": "Assistant professor Head, Dept of ITM",
-          "images":[],
-          "Method": ["Opening and Inauguration by Honorable Vice Chancellor Sir"],
-          "time": "08:30-10:30 am",
-          "Duration": "120 minutes",
+          "location":"Hall ITM",
+          "designation": "Assistant professor & Head, Dept of ITM",
+          "images":["https://i.ibb.co/cyvDHNQ/310340531-2650528191749567-4562675422350899291-n.jpg"],
+          "Method": ["Opening and Inauguration by Honorable Vice Chancellor Sir, DIU"],
+          "time": "08:30 am-9:30 am",
+          "Duration": "60 minutes",
           "content": [
                {"title":"Program flow"},
-               {"opton":["Welcome remarks","Brief self-introduction of participants (name, organization)","Highlights on ICBC project","Remarks by the representative of Technical Partners","Speech by the Chairperson, PD, ICBC Project","Speech by the Chief Guest,Secretary, MoWCA"]}
+               {"option":["Welcome remarks.",
+               "Rally for ITM SUMMIT 2023.",
+               "Highlights on ITM SUMMIT 2023",
+               "Opening speech by the Department Head of ITM",
+               "Speech by the Vice Chancellor of DIU",
+               "Speech by the Pro Vice Chancellor of DIU"]}
           ]
      },
      {
           "id": 3,
-          "name": "",
+          "name": "Tea break",
           "designation": "",
           "images":[],
           "Method": [""],
-          "time": "10:30-11:00 am",
-          "Duration": "30 minutes",
+          "time": "09:30 am-09:45 am",
+          "Duration": "15 minutes",
           "content": [
-               {"option":"Tea break"}
           ]
      },
      {
           "id": 4,
-          "name": "Dr. Al-Amin, CIPRB and Nahid Parvin",
-          "designation": "BRAC IED",
-          "images":[],
-          "Method": ["Pair up the participants (APMs DCAOs and TAPs and other participants)."],
-          "time": "11:00-11:30 am",
-          "Duration": "30 minutes",
+          "name": "Mr. Masum Billah",
+          "location":"Hall ITM",
+          "designation": "Lecturer, Department of ITM",
+          "images":["https://i.ibb.co/cyvDHNQ/310340531-2650528191749567-4562675422350899291-n.jpg"],
+          "Method": ["Participants from different departments will participate in the DIU Library."],
+          "time": "09:45 am-11:00 am",
+          "Duration": "75 minutes",
           "content": [
-               {"option":"Interactive Introduction"}
+               {"option":"Competition on Advance problem Solving. (Brainmegnato)"}
           ]
      },
      {
           "id": 5,
-          "name": "Md. Tariqul Islam Chowdhudry and M Rizwan Khan",
-          "designation": "Synergos",
-          "images":[],
-          "Method": ["Participants write expectations in VIP cards. PPT."],
-          "time": "11:30-12:00 pm",
-          "Duration": "30 minutes",
+          "name": "Ms. Annesha Ahmed",
+          "location":"Hall ITM",
+          "designation": "PMP President, PMI Bangladesh Chapter",
+          "images":["https://i.ibb.co/cyvDHNQ/310340531-2650528191749567-4562675422350899291-n.jpg"],
+          "Method": ["Participants will learn about the PMP value in 4IR"],
+          "time": "11:00 am-12:00 pm",
+          "Duration": "60 minutes",
           "content": [
-               {"option":"Expectations collection from participants and ground rules sharing"}
+               {"title": "Session on Project Management Professional"},
+               {"option":""}
           ]
      },
      {
           "id": 6,
-          "name": "Md. Tariqul Islam Chowdhudry",
-          "designation": "",
-          "images":[],
-          "Method": ["PPT Presentation, discussion, and Q/A.", "Copies of the DPP will be distributed."],
-          "time": "12:00-12:40 pm",
-          "Duration": "40 minutes",
+          "name": "Mr. Nafees Imran",
+          "location":"Hall ITM",
+          "designation": "Lecturer, Department of ITM",
+          "images":["https://i.ibb.co/cyvDHNQ/310340531-2650528191749567-4562675422350899291-n.jpg"],
+          "Method": ["Selective Question will ask the panel members."],
+          "time": "12:00 pm-2.00 pm",
+          "Duration": "120 minutes",
           "content": [
-               { "title":"Introduction of ICBC project and Development/Technical Partners and their roles."},
-               {"option": ["Objectives", "Intervention models", "Locations of ICBC project","Roles of DPs and TAPs"]}
+               { "title":""},
+               {"option": ["panel discussion with Industrialists, Company CEOs, and CTOs.", "Head of ITM will operate this session." ]}
           ]
      },
      {
           "id": 7,
-          "name": "M Rizwan Khan and Team",
+          "name": "Lunch break",
           "designation": "",
           "images":[],
-          "Method": ["Participants may be quizzed on project related information."],
-          "time": "12:40-01:00 pm",
-          "Duration": "20 minutes",
+          "Method": [""],
+          "time": "02.00 pm-02:45 pm",
+          "Duration": "45 minutes ",
           "content": [
-               {"option": ["Energizers"]}
+              
           ]
      },
      {
           "id": 8,
-          "name": "",
-          "designation": "",
-          "images":[],
-          "Method": [""],
-          "time": "01.00-02:00 pm",
-          "Duration": "60 minutes ",
-          "content": [
-               {"option": ["Lunch break"]}
-          ]
-     },
-     {
-          "id": 9,
-          "name": "Nahid Parvin and Rabbya Ashrafi ",
-          "designation": "",
-          "images":[],
-          "Method": ["Some team building activities will be performed"],
-          "time": "02:00-02:10 pm",
-          "Duration": "10 minutes ",
-          "content": [
-               {"option": ["Energizers"]}
-          ]
-     },
-     {
-          "id": 10,
-          "name": "Dr. Aminur Rahman, CIPRB and Esha Husain",
-          "designation": "Synergos",
-          "images":[],
-          "Method": ["PPT presentation, video and Q/A"],
-          "time": "02:10-03:10 pm",
+          "name": "Ayman sadiq",
+          "location":"Hall ITM",
+          "designation": "Founder & CEO, 10 minute school",
+          "images":["https://i.ibb.co/cyvDHNQ/310340531-2650528191749567-4562675422350899291-n.jpg"],
+          "Method": ["Main attraction of the summit", "Closing ceremony will be done in this flow."],
+          "time": "3.00 pm-04:00 pm",
           "Duration": "60 minutes",
           "content": [
-               { "title":"Background Research and Project journey"},
-               {"option": ["Background research (where it started)-Presenting research findings on child drowning prevention-proof of concept.", "How have we come here? Reflection on the collective journey of ICBC DPP journey."]}
+               {"title":"keynote speaker will conduct a session for the student."},
+               {"option": ["Information Technology Management in 4IR", "guest preferred topic"]}
           ]
      },
+     
      {
-          "id": 11,
-          "name": "Dr. Golam Mostafa",
-          "designation": " BRAC IED",
-          "images":[],
-          "Method": ["PPT presentation, video and Q/A"],
-          "time": "03:10-03:55 pm",
-          "Duration": "45 minutes",
+          "id": 9,
+          "name": "Cultural part",
+          "location":"Hall ITM",
+          "designation": "",
+          "images":[""],
+          "Method": ["Some team building activities will be performed"],
+          "time": "04:15-05:15 pm",
+          "Duration": "60 minutes ",
           "content": [
-               { "title":"Science of ECCD and its’ Benefit"},
-               {"option": ["The science of ECCD and its longterm benefits and aspects of ECCD featured in Nurturing CareFramework."]}
+               {"option": [""]}
           ]
      }
+     
 ]
