@@ -2,123 +2,177 @@
      {
           "id": 1,
           "name": "",
-          "designation": "",          
-          "images":[],
-          "Method": ["Arrival"],
+          "designation": "",
+          "images": [],
+          "Method": [
+               "Arrival"
+          ],
           "time": "07:30 am-08:30 am",
-          "Duration": "60 minutes",
+          "Duration": "",
           "content": []
      },
      {
           "id": 2,
           "name": "All participants of ITM SUMMIT 2023.",
-          "location":"Knowledge Valley",
+          "location": "Knowledge Valley",
           "designation": "",
-          "images":["https://i.ibb.co/h7tJzbB/unknown1.jpg"],
-          "Method": ["Inauguration ceremony "],
+          "images": [
+               "https://i.ibb.co/sKqtTR2/Inauguration.jpg"
+          ],
+          "Method": [
+               "Inauguration ceremony "
+          ],
           "time": "08:30 am-9:30 am",
           "Duration": "60 minutes",
-          "content": [
-               {"title":"Program flow"},
-               {"option":["Welcome remarks.",
-               "Rally for ITM SUMMIT 2023.",
-               "Highlights on ITM SUMMIT 2023",
-               "Opening speech by the Department Head of ITM",
-               "Speech by the Vice Chancellor of DIU",
-               "Speech by the Pro Vice Chancellor of DIU"]}
-          ]
+          "content": {
+               "title": "Program flow",
+               "option": [
+                    {
+                         "list": "Welcome remarks."
+                    },
+                    {
+                         "list": "Rally for ITM SUMMIT 2023."
+                    },
+                    {
+                         "list": "Highlights on ITM SUMMIT 2023"
+                    },
+                    {
+                         "list": "Opening speech by the Department Head of ITM"
+                    },
+                    {
+                         "list": "Speech by the Vice Chancellor of DIU"
+                    },
+                    {
+                         "list": "Speech by the Pro Vice Chancellor of DIU"
+                    }
+               ]
+          }
      },
      {
           "id": 3,
           "name": "Tea break",
           "designation": "",
-          "images":[],
-          "Method": ["Tea break"],
+          "images": [],
+          "Method": [
+               "Tea break"
+          ],
           "time": "09:30 am-09:45 am",
           "Duration": "",
-          "content": [
-          ]
+          "content": []
      },
      {
           "id": 4,
           "name": "Mr. Masum Billah",
-          "location":"DIU Library",
+          "location": "DIU Library",
           "designation": "Lecturer, Department of ITM",
-          "images":["https://i.ibb.co/h7tJzbB/unknown1.jpg"],
-          "Method": ["(Brainmegnato)","Competition on Advance problem Solving."],
+          "images": [
+               "https://i.ibb.co/dbzkhV3/competition.jpg"
+          ],
+          "Method": [
+               "Brainmegnato ",
+               "Competition on Advance problem Solving."
+          ],
           "time": "09:45 am-11:00 am",
           "Duration": "75 minutes",
-          "content": [
-               {"option":"Participants from different departments will participate in the DIU Library."}
-          ]
+          "content": {
+               "title": "Participants from different departments will participate in the DIU Library.",
+               "option": []
+          }
      },
      {
           "id": 5,
           "name": "Ms. Annesha Ahmed",
-          "location":"International Conference Room",
+          "location": "International Conference Room",
           "designation": "PMP President, PMI Bangladesh Chapter",
-          "images":["https://i.ibb.co/h7tJzbB/unknown1.jpg"],
-          "Method": ["Session on Project Management Professions"],
+          "images": [
+               "https://i.ibb.co/dbxVLDb/annesha.jpg"
+          ],
+          "Method": [
+               "Session on Project Management Professions"
+          ],
           "time": "11:00 am-12:00 pm",
           "Duration": "60 minutes",
-          "content": [
-               {"title": "Session on Project Management Professions"},
-               {"option":"Participants will learn about the Project management Professions value in 4IR"}
-          ]
+          "content": {
+               "title": "Session on Project Management Professions",
+               "option": [
+                    {
+                         "list": "Participants will learn about the Project management Professions value in 4IR"
+                    }
+               ]
+          }
      },
      {
           "id": 6,
           "name": "Nusrat Jahan",
-          "location":"International Conference Room",
+          "location": "International Conference Room",
           "designation": "Lecturer, Department of ITM",
-          "images":["https://i.ibb.co/h7tJzbB/unknown1.jpg"],
-          "Method": ["Panel Discussion with Industrialists."],
+          "images": [
+               "https://i.ibb.co/myYvmpm/panel-discussion.jpg"
+          ],
+          "Method": [
+               "Panel Discussion with Industrialists."
+          ],
           "time": "12:00 pm-2.00 pm",
           "Duration": "120 minutes",
-          "content": [
-               { "title":""},
-               {"option": ["panel discussion with Industrialists, Company CEOs, and CTOs.", "Head of ITM will moderate this session." ]}
-          ]
+          "content": {
+               "title": "Panel Discussion",
+               "option": [
+                    {
+                         "list": "panel discussion with Industrialists, Company CEOs, and CTOs."
+                    },
+                    {
+                         "list": "Head of ITM will moderate this session."
+                    }
+               ]
+          }
      },
      {
           "id": 7,
           "name": "",
           "designation": "",
-          "images":[],
-          "Method": ["Lunch break"],
+          "images": [],
+          "Method": [
+               "Lunch break"
+          ],
           "time": "02.00 pm-02:45 pm",
           "Duration": "",
-          "content": [
-              
-          ]
+          "content": []
      },
      {
           "id": 8,
           "name": "Ayman Sadiq",
-          "location":"Sadhinota Sommelon kendro-Auditorium",
+          "location": "Sadhinota Sommelon kendro-Auditorium",
           "designation": "Founder & CEO, 10 minute school",
-          "images":["https://i.ibb.co/h7tJzbB/unknown1.jpg"],
-          "Method": ["Session on Communication Skills"],
+          "images": [
+               "https://i.ibb.co/fY8c0cq/ayman2.jpg"
+          ],
+          "Method": [
+               "Session on Communication Skills"
+          ],
           "time": "3.00 pm-04:00 pm",
           "Duration": "60 minutes",
-          "content": [
-               {"title":"keynote speaker will conduct a session for the student."},
-               {"option": ["Communication Skills"]}
-          ]
+          "content": {
+               "title": "keynote speaker will conduct a session for the student.",
+               "option": [
+                    {
+                         "list": "Session wil about Communication Skills"
+                    }
+               ]
+          }
      },
-     
      {
           "id": 9,
-          "name": "Cultural part",
-          "location":"",
+          "name": "",
+          "location": "",
           "designation": "",
-          "images":[""],
-          "Method": [""],
-          "time": "04:15-05:15 pm",
+          "images": [
+               ""
+          ],
+          "Method": [
+               "Cultural part"
+          ],
+          "time": "04:15 pm-05:15 pm",
           "Duration": "",
-          "content": [
-               {"option": [""]}
-          ]
+          "content": {}
      }
-     
 ]
